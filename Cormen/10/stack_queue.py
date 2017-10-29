@@ -1,4 +1,5 @@
 # create stack from one queue
+# without errors checking
 
 from collections import deque
 
